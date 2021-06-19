@@ -50,6 +50,9 @@
     display: none;
 }
 #col-3{
-    padding-top: 30px;
+    padding-top: 39px;
     text-align: center;
+}
+#p-3{
+    display: none;
 }
