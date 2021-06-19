@@ -8,6 +8,14 @@ $('#p-1').click(function(){
     $('#image3').toggle();
 
 })
+$('#image4').click(function(){
+    $('#image4').toggle();
+    $('#p-2').toggle();
+});
+$('#p-2').click(function(){
+    $('#p-2').toggle();
+    $('#image4').toggle();
+})
 
 
 
