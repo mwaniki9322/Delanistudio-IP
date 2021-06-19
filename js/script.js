@@ -16,6 +16,14 @@ $('#p-2').click(function(){
     $('#p-2').toggle();
     $('#image4').toggle();
 })
+$('#image5').click(function(){
+    $('#image5').toggle();
+    $('#p-3').toggle();
+})
+$('#p-3').click(function(){
+    $('#p-3').toggle();
+    $('#image5').toggle();
+})
 
 
 
