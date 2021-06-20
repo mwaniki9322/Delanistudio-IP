@@ -24,12 +24,17 @@ $('#p-3').click(function(){
     $('#p-3').toggle();
     $('#image5').toggle();
 });
-$('#work4').hover(function(){
-    $('#overlay').toggle();    
-})
-$('#overlay').hover(function(){
-    $('#work4').ho
-})
+$("#work4").hover(function () {
+    $("#overlay").toggle();
+});
+$("#work3").hover(function () {
+    $("#overlay2").toggle();
+});
+
+
+
+
+
 
 
 $('form').submit(function(){
@@ -39,7 +44,7 @@ $('form').submit(function(){
 
     var result= name + email + message;
 
-    alert('Hello ' + name +' ,We have recieved your message');
+    alert('Hello ' + name +' ,We have recieved your message.Thankyou for reaching out to us');
 
 })
 
