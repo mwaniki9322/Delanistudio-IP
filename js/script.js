@@ -57,9 +57,9 @@ $("#work8").hover(function () {
 
 
 $('form').submit(function(){
-    var name=document.getElementById('name').value;
-    var email=document.getElementById('email').value;
-    var message=document.getElementById('message').value;
+    var name=document.getElementById('name2').value;
+    var email=document.getElementById('email2').value;
+    var message=document.getElementById('message2').value;
 
     var result= name + email + message;
 
