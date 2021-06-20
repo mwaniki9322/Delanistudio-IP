@@ -161,4 +161,37 @@
     background-color: black;
     
 }
+#overlay2{
+    Position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: black;
+    
+}
+#overlay2{
+    Position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: black;
+    
+}
+#overlay3{
+    text-align: center;
+    Position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 25px;
+    background-color: black;
+    
+}
+
+
 
