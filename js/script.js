@@ -23,7 +23,26 @@ $('#image5').click(function(){
 $('#p-3').click(function(){
     $('#p-3').toggle();
     $('#image5').toggle();
+});
+$('#work4').hover(function(){
+    $('#overlay').toggle();    
 })
+$('#overlay').hover(function(){
+    $('#work4').ho
+})
+
+
+$('form').submit(function(){
+    var name=document.getElementById('name').value;
+    var email=document.getElementById('email').value;
+    var message=document.getElementById('message').value;
+
+    var result= name + email + message;
+
+    alert('Hello ' + name +' ,We have recieved your message');
+
+})
+
 
 
 
