@@ -64,6 +64,7 @@
     padding-top: 20px;
 }
 #work4{
+
     width: 250px;
 }
 #work3{
@@ -141,8 +142,23 @@
     padding-top: 20px;
 }
 #overlay{
+    Position: absolute;
     display: none;
-    background-color: grey;
-    
+    color: white;
+    margin-top: 80px;
+    margin-left: 70px;
+    font-size: 25px;
+    background-color: black;
 
 }
+#overlay2{
+    Position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: black;
+    
+}
+
