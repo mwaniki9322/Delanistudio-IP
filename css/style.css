@@ -98,6 +98,7 @@
     background-size: cover;
     margin-top: 50px;
     color: white;
+    height: 500px;
 }
 #contactus h4{
 
@@ -128,4 +129,14 @@
 }
 #contactus ::placeholder{
     color: white;
+}
+#socials{
+    text-align: center;
+    padding-top: 50px;
+}
+#socials img{
+    padding-left: 20px;
+}
+#ds{
+    padding-top: 20px;
 }
