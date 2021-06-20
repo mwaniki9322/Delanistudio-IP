@@ -50,12 +50,6 @@ $("#work8").hover(function () {
     $("#overlay8").toggle();
 });
 
-
-
-
-
-
-
 $('form').submit(function(){
     var name=document.getElementById('name2').value;
     var email=document.getElementById('email2').value;
